@@ -22,3 +22,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maharshi66&show_icons=true&locale=en&layout=compact" alt="maharshi66" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maharshi66&show_icons=true&locale=en" alt="maharshi66" /></p>
+![Github stats](https://github-readme-stats.vercel.app/api?maharshi66=yourGithubUsername)
