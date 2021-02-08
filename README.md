@@ -1,16 +1,14 @@
-<h1 align="center">Hi 👋, I'm Maharshi</h1>
-<h3 align="center">Software Engineer</h3>
+<h1 align="center">Namaste 🙏 <br> I'm Maharshi </h1>
+<h3 align="center">Computer Engineer | Full Stack Developer | Web and Mobile Dev Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maharshi66&label=Profile%20views&color=0e75b6&style=flat" alt="maharshi66" /> </p>
 
-- 👯 I’m looking to collaborate on **Full Stack Web and Mobile App Development**
-
-- 👨‍💻 Visit my website [https://maharshishah-appdev.netlify.app/](https://maharshishah-appdev.netlify.app/)
+- 👨‍💻 Visit my website [Portfolio](https://maharshishah-appdev.netlify.app/)
 
 - 📫 How to reach me **maharshishah06@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/maharshi-shah1996ms/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12225698" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12225698" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/maharshi_6/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="40" /></a>
