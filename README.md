@@ -1,5 +1,5 @@
 <h1 align="center">Namaste 🙏 <br> I'm Maharshi </h1>
-<h3 align="center">Computer Engineer | Full Stack Developer | Web and Mobile Dev Enthusiast</h3>
+<h3 align="center">Computer Engineer | Full Stack Web and Mobile Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maharshi66&label=Profile%20views&color=0e75b6&style=flat" alt="maharshi66" /> </p>
 
