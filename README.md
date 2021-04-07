@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maharshi66&label=Profile%20views&color=0e75b6&style=flat" alt="maharshi66" /> </p>
 
-- 👨‍💻 Visit my [Portfolio Website ](https://maharshishah.netlify.app/)
 
 - 📫 How to reach me **maharshishah06@gmail.com**
 <div style="background-color: #dcffe4;">
