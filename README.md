@@ -1,4 +1,4 @@
-# Hello, I'm [Your Full Name] 👋
+# Hello, I'm Maharshi👋
 
 I'm a software engineer with a passion for crafting scalable distributed systems and leveraging the power of JavaScript and TypeScript to build robust applications. My expertise lies in designing and implementing solutions that thrive in distributed environments, with a particular focus on Node.js and Nest.js frameworks. Holding an AWS Solutions Architect certification, I enjoy architecting cloud-native applications that seamlessly integrate with AWS services
 
