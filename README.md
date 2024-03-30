@@ -13,7 +13,4 @@ I'm a senior software engineer with a passion for crafting scalable distributed 
 ## 💼 Current Focus
 - Currently diving deeper into Typescript, Nest.js as well as exploring new possibilities in distributed computing and cloud architecture.
 
-## 🌟 GitHub Profile
-- My GitHub profile serves as a portfolio of my professional journey and showcases my expertise in software engineering, distributed systems, and cloud architecture.
-
 Feel free to connect with me on https://www.linkedin.com/in/maharshi-shah1996ms/ for further discussions and collaborations!
